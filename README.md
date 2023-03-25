@@ -1,4 +1,4 @@
-# Changes in Twitch Streaming due to Covid
+# Changes In TWITCH Streaming Due To COVID-19
 ### Author(s): Brennan Copp & Isabel Sy,  March 2023  
 
 [Project Overview](#project-overview)
