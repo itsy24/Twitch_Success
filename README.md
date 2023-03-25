@@ -11,6 +11,8 @@
 
 [Summary and Conclusions](#summary)
 
+!["C:\Users\itsy7\repos\Twtich_Success\Twitch Purple\TwitchExtrudedWordmarkPurple.png"]
+
 ## Background
 Live streaming, as the name suggests, is content broadcasted in real time on the internet. Platforms such as YouTube, TikTok, and Instagram offer this feature, but this was not always the case. Before streaming became what we now know it to be, only a few websites allowed users to have a live platform. One such website is Twitch.tv (Twitch). 
 
