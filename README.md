@@ -12,6 +12,9 @@
 [Summary and Conclusions](#summary)
 
 ## Background
+Live streaming, as the name suggests, is content broadcasted in real time on the internet. Platforms such as YouTube, TikTok, and Instagram offer this feature, but this was not always the case. Before streaming became what we now know it to be, only a few websites allowed users to have a live platform. One such website is Twitch.tv (Twitch). 
+
+Created in 2011 and mostly catered around the gaming community, Twitch quickly grew to become one of the biggest live streaming platforms on the internet. A rise in the popularity of social media as well as the COVID-19 lockdown gave way for Twitch to grow. Now, Twitch streamers broadcast not only gaming but also music, sports, podcasts, and even food oriented content.
 
 ## Project Overview
 Using data collected from Twitch onto a 3rd party website, we investigated relationships between streaming languages, years before, during, and after Covid, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
@@ -21,7 +24,6 @@ We used Python for all data processing, cleaning, and visualization.
 
 ### Resources
 Data: [Twitch Performance Data](https://sullygnome.com/)
-
 Software/Languages: Python 3.8.16 (Pandas Library, Matplotlib Library, Statsmodels Library)
 
 ## ETL Process and Database Design
