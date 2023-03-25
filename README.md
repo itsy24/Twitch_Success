@@ -14,7 +14,9 @@
 ## Background
 
 ## Project Overview
-Using data collected from Twitch onto a 3rd party website, we will investigate relationships between streaming languages, years before, during, and after Covid, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
+Using data collected from Twitch onto a 3rd party website, we investigated relationships between streaming languages, years before, during, and after Covid, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
+
+We used Python for all data processing, cleaning, and visualization
 ### Resources
 
 ## ETL Process and Database Design
