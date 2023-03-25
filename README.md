@@ -35,5 +35,3 @@ Due to the project's time constraint, the data has the following limitations:
 ## Analyzing the Data in Python
 
 ## Summary
-
-## Conclusion
