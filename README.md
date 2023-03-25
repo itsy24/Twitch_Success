@@ -19,7 +19,7 @@ Live streaming, as the name suggests, is content broadcasted in real time on the
 Created in 2011 and mostly catered around the gaming community, Twitch quickly grew to become one of the biggest live streaming platforms on the internet. A rise in the popularity of social media as well as the COVID-19 lockdown gave way for Twitch to grow. Now, Twitch streamers broadcast not only gaming but also music, sports, podcasts, and even food oriented content.
 
 ## Project Overview
-Using data collected from Twitch onto a 3rd party website, we investigated relationships between streaming languages, years before, during, and after Covid, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
+Using data collected from Twitch onto a 3rd party website, we investigated relationships between streaming languages, years before, during, and after COVID, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
 
 We used Python for all data processing, cleaning, and visualization.
 
@@ -27,7 +27,7 @@ We used Python for all data processing, cleaning, and visualization.
 ### Resources
 Data: [Twitch Performance Data](https://sullygnome.com/)
 
-Software/Languages: Python 3.8.16 (Pandas Library, Matplotlib Library, Statsmodels Library)
+Software/Languages: Jupyter Notebook - Python 3.8.16 (Pandas Library, Matplotlib Library, Statsmodels Library)
 
 ## ETL Process and Database Design
 Our dataset contains 45 csv files, obtained from [SullyGnome](https://sullygnome.com/). The site creator of SullyGnome (David) states in the About page that all data aggregated and sythensized on the site is from the Twitch API. 
@@ -37,7 +37,17 @@ Due to the project's time constraint, the data has the following limitations:
 - One top ranking Twitch channel within each streaming language was chosen to represent the streaming language as well as smaller channel performances
 
 ### Data Cleaning
+Data cleaning was fairly simple. 
+A jupyter notebook with pandas imported was utilized to import the CSVs into a two dataframes, one for Twitch categories and the other for streamers.
 
 ## Analyzing the Data in Python
+Data for categories includes the top 100 games watched from 2018-2019 in English, Chinese, Korean, and Portuguese. From there, we narrowed it down to 4 categories: 2 online games(Fortnite & League of Legends), Just Chatting, and Music. 
+
+-insert snippet here-
+
+From there, watch time per language were isolated and sorted by year. 
+
+-insert snippter here-
+
 
 ## Summary
