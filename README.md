@@ -17,9 +17,18 @@
 Using data collected from Twitch onto a 3rd party website, we investigated relationships between streaming languages, years before, during, and after Covid, and follower count, view count, and total watch time for a top streamer within each streaming language of interest.
 
 We used Python for all data processing, cleaning, and visualization.
+
+
 ### Resources
+Data: [Twitch Performance Data](https://sullygnome.com/)
+Software/Languages: Python 3.8.16 (Pandas Library, Matplotlib Library, Statsmodels Library)
 
 ## ETL Process and Database Design
+Our dataset contains 45 csv files, obtained from [SullyGnome](https://sullygnome.com/). The site creator of SullyGnome (David) states in the About page that all data aggregated and sythensized on the site is from the Twitch API. 
+
+Due to the project's time constraint, the data has the following limitations:
+- Only specific top performing categories were chosen for analysis
+- One top ranking Twitch channel within each streaming language was chosen to represent the streaming language as well as smaller channel performances
 
 ### Data Cleaning
 
