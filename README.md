@@ -21,6 +21,7 @@ We used Python for all data processing, cleaning, and visualization.
 
 ### Resources
 Data: [Twitch Performance Data](https://sullygnome.com/)
+
 Software/Languages: Python 3.8.16 (Pandas Library, Matplotlib Library, Statsmodels Library)
 
 ## ETL Process and Database Design
