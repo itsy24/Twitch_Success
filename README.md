@@ -2,9 +2,13 @@
 ### Author(s): Brennan Copp & Isabel Sy,  March 2023  
 
 [Project Overview](#project-overview)
+
 [Data Processing (ETL)](#etl-process-and-database-design)
+
 [Cleaning and Visualizing Data with Python](#analyzing-the-data-in-Python)
+
 [Analyzing Cleaned Data](#analyzing-cleaned-data)
+
 [Summary and Conclusions](#summary)
 
 ## Background
