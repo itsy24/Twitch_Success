@@ -43,7 +43,7 @@ A jupyter notebook with pandas imported was utilized to import the CSVs into a t
 ## Analyzing the Data in Python
 Data for categories includes the top 100 games watched from 2018-2019 in English, Chinese, Korean, and Portuguese. From there, we narrowed it down to 4 categories: 2 online games(Fortnite & League of Legends), Just Chatting, and Music. 
 
--insert snippet here-
+![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet1%20.png)
 
 From there, watch time per language were isolated and sorted by year. 
 
