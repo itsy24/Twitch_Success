@@ -47,7 +47,8 @@ Data for categories includes the top 100 games watched from 2018-2019 in English
 
 From there, watch time per language were isolated and sorted by year. 
 
--insert snippter here-
+![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
+
 
 
 ## Summary
