@@ -66,6 +66,7 @@ As COVID began, the category 'Just Chatting' rose compared to the other categori
 Finally, statistcal analysis was done with a two-way ANOVA.
 
 The test below demonstrates that language (p-value = 1.080788e-11) statistcally affects watch times more than what game/category is being streamed.
+
 ![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
 
 ## Summary
