@@ -49,6 +49,10 @@ From there, watch time per language were isolated and sorted by year.
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
 
+The following grpah shows watch time(min) trends over the course of the 5 years for each language.
+
+![graph0](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/watch_time_trends.png)
+
 The following graphs were created comparing the 4 streamed languages and categories. 
 
 ![graph1](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_eng.png)
@@ -62,4 +66,5 @@ The following graphs were created comparing the 4 streamed languages and categor
 
 ### Conclusions based on our analysis
 
-- Watch time increased for all streaming languages during 2020, indicating that all  
+- Watch time increased for all streaming languages during 2020, indicating that
+- 
