@@ -49,9 +49,10 @@ From there, watch time per language were isolated and sorted by year.
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
 
-The following grpah shows watch time(min) trends over the course of the 5 years for each language.
+The following grpahs show watch time(min) trends over the course of the 5 years and the total watch time for each langauge.
 
 ![graph0](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/watch_time_trends.png)
+![graph00](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/total_watch_time.png)
 
 The following graphs were created comparing the 4 streamed languages and categories. 
 
