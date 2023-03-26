@@ -50,11 +50,13 @@ From there, watch time per language were isolated and sorted by year.
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
 
 The graphs below show watch time(min) trends over the course of the 5 years and the total watch time for each langauge. 
+As time passes, the viewership of Twitch for all 4 langauges rose, with English being streamed the most. 
 
 ![graph0](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/watch_time_trends.png)
 ![graph00](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/total_watch_time.png)
 
 These graphs compare the 4 streamed languages and categories. 
+As COVID began, the category 'Just Chatting' rose compared to the other categories who either decreased in streams or plateaued. 
 
 ![graph1](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_eng.png)
 ![graph2](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_pr.png)
@@ -63,7 +65,7 @@ These graphs compare the 4 streamed languages and categories.
 
 Finally, statistcal analysis was done with a two-way ANOVA.
 
-![ANOVA1](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova1.png)
+The test below demonstrates that language (p-value = 1.080788e-11) statistcally affects watch times more than what game/category is being streamed.
 ![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
 
 ## Summary
@@ -72,5 +74,5 @@ Finally, statistcal analysis was done with a two-way ANOVA.
 
 - Watch time increased for all streaming languages during 2020, indicating that COVID had an impact on Twitch's online traffic. 
 - In 2021 English streaming for' Just Chatting' plateaued; most likely due to COVID restrictions being lessened in countires where English is the primary language spoken.  
-- Just Chatting continues to rise in popularity for those who stream in Chinese or Korean - This could be due to the content that is popular within these groups.
+
 
