@@ -45,9 +45,16 @@ Data for categories includes the top 100 games watched from 2018-2019 in English
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet1%20.png)
 
-From there, watch time per language were isolated and sorted by year. 
+From there, watch time per language were isolated and sorted by year.
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
+
+The following graphs were created comparing the 4 streamed languages and categories. 
+
+![graph1](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_eng.png)
+![graph2](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_pr.png)
+![graph3](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_cn.png)
+![graph4](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_kr.png)
 
 
 
