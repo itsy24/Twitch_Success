@@ -38,7 +38,7 @@ Due to the project's time constraint, the data has the following limitations:
 
 ### Data Cleaning
 Data cleaning was fairly simple. 
-A jupyter notebook with pandas imported was utilized to import the CSVs into a two dataframes, one for Twitch categories and the other for streamers.
+A jupyter notebook with pandas imported was utilized to import the CSVs into two dataframes, one for Twitch categories and the other for streamers.
 
 Data for categories includes the top 100 games watched from 2018-2019 in English, Chinese, Korean, and Portuguese. From there, we narrowed it down to 4 categories: 2 online games(Fortnite & League of Legends), Just Chatting, and Music. 
 
@@ -48,9 +48,11 @@ From there, watch time per language were isolated and sorted by year.
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
 
+Data for streamers includes the channel name, length of viewer watch time, average viewers, total follower count, and followers gained from 2018-2022. Streamers were then grouped by the streaming language. One streamer from each language was isolated and used for analysis.
+
 ## Analyzing the Data in Python
 
-The graphs below show watch time(min) trends over the course of the 5 years and the total watch time for each langauge. 
+Watch time(min) trends over the course of the 5 years and the total watch time for each langauge. 
 As time passes, the viewership of Twitch for all 4 langauges rose, with English being streamed the most. 
 
 ![graph0](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/watch_time_trends.png)
@@ -66,7 +68,7 @@ As COVID began, the category 'Just Chatting' rose compared to the other categori
 
 Finally, statistcal analysis was done with a two-way ANOVA.
 
-The test below demonstrates that language (p-value = 1.080788e-11) statistcally affects watch times more than what game/category is being streamed.
+Language (p-value = 1.08e-11) was shown to be statistcally significant in affecting watch times compared to the game/category being streamed.
 
 ![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
 
@@ -75,6 +77,9 @@ The test below demonstrates that language (p-value = 1.080788e-11) statistcally 
 ### Conclusions based on our analysis
 
 - Watch time increased for all streaming languages during 2020, indicating that COVID had an impact on Twitch's online traffic. 
-- In 2021 English streaming for' Just Chatting' plateaued; most likely due to COVID restrictions being lessened in countires where English is the primary language spoken.  
+- In 2021 English streaming for' Just Chatting' plateaued; most likely due to COVID restrictions being lessened in countires where English is the primary language spoken.
+- How long a channel streams does not influence the number of followers a channel has or gains. 
+- Even if a channel has an increase in followers, the amount of average viewers changes negligably 
+- The amount of followers doesn't indicate the number of viewers a channel will have for a given stream
 
 
