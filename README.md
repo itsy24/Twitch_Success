@@ -80,6 +80,6 @@ Language (p-value = 1.08e-11) was shown to be statistcally significant in affect
 - In 2021 English streaming for' Just Chatting' plateaued; most likely due to COVID restrictions being lessened in countires where English is the primary language spoken.
 - How long a channel streams does not influence the number of followers a channel has or gains. 
 - Even if a channel has an increase in followers, the amount of average viewers changes negligably 
-- The amount of followers doesn't indicate the number of viewers a channel will have for a given stream
+- The amount of followers does not indicate the number of viewers a channel will have for a given stream
 
 
