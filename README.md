@@ -40,7 +40,6 @@ Due to the project's time constraint, the data has the following limitations:
 Data cleaning was fairly simple. 
 A jupyter notebook with pandas imported was utilized to import the CSVs into a two dataframes, one for Twitch categories and the other for streamers.
 
-## Analyzing the Data in Python
 Data for categories includes the top 100 games watched from 2018-2019 in English, Chinese, Korean, and Portuguese. From there, we narrowed it down to 4 categories: 2 online games(Fortnite & League of Legends), Just Chatting, and Music. 
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet1%20.png)
@@ -48,6 +47,8 @@ Data for categories includes the top 100 games watched from 2018-2019 in English
 From there, watch time per language were isolated and sorted by year.
 
 ![snip1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
+
+## Analyzing the Data in Python
 
 The graphs below show watch time(min) trends over the course of the 5 years and the total watch time for each langauge. 
 As time passes, the viewership of Twitch for all 4 langauges rose, with English being streamed the most. 
