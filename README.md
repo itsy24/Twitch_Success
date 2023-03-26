@@ -51,3 +51,7 @@ From there, watch time per language were isolated and sorted by year.
 
 
 ## Summary
+
+### Conclusions based on our analysis
+
+- Watch time increased for all streaming languages during 2020, indicating that all  
