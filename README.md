@@ -63,8 +63,8 @@ And these graphs compare the 4 streamed languages and categories.
 
 Finally, statistcal analysis was done with a two-way ANOVA.
 
-![ANOVA1](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet1%20.png)
-![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/snippet2.png)
+![ANOVA1](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova1.png)
+![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
 
 ## Summary
 
