@@ -84,6 +84,18 @@ Language (p-value = 1.08e-11) was shown to be statistcally significant in affect
 
 ![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
 
+Language and watch time were statistically significant to impact follower count individually.
+
+![TEST2](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value2.png)
+
+Stream time is not statistically significant for follower count.
+
+![TEST3](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value3.png)
+
+The amount of time a channel streamed does not change throughout the years.
+
+![TEST4](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value4.png)
+
 ## Summary
 
 ### Conclusions based on our analysis
