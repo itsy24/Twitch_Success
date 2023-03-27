@@ -66,11 +66,35 @@ As COVID began, the category 'Just Chatting' rose compared to the other categori
 ![graph3](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_cn.png)
 ![graph4](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_kr.png)
 
+A single channel was isolated from the original data set for each streaming language of interest.
+
+![graph5](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Stream_Number_per_Streamer.png)
+
+Watch time for each streamer compared to the total followers each channel had accrued for each year.
+
+![graph6](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Watch_Time_vs_Follow.png)
+
+Average viewers for each year compared to the number of followers gained within that same year.
+
+![graph7](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Views_Follow.png)
+
 Finally, statistcal analysis was done with a two-way ANOVA.
 
 Language (p-value = 1.08e-11) was shown to be statistcally significant in affecting watch times compared to the game/category being streamed.
 
 ![ANOVA2](https://github.com/itsy24/Twitch_Success/blob/isy/images/anova2.png)
+
+Language and watch time were statistically significant to impact follower count individually.
+
+![TEST2](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value2.png)
+
+Stream time is not statistically significant for follower count.
+
+![TEST3](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value3.png)
+
+The amount of time a channel streamed does not change throughout the years.
+
+![TEST4](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/p_value4.png)
 
 ## Summary
 
