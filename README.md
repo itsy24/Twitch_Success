@@ -66,6 +66,10 @@ As COVID began, the category 'Just Chatting' rose compared to the other categori
 ![graph3](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_cn.png)
 ![graph4](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/popular_cat_kr.png)
 
+![graph5](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Stream_Number_per_Streamer.png)
+![graph6](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Watch_Time_vs_Follow.png)
+![graph7](https://github.com/itsy24/Twitch_Success/blob/main/Graphs/Views_Follow.png)
+
 Finally, statistcal analysis was done with a two-way ANOVA.
 
 Language (p-value = 1.08e-11) was shown to be statistcally significant in affecting watch times compared to the game/category being streamed.
